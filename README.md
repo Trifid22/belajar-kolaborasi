@@ -1,4 +1,4 @@
-# belajar-kolaborasi
-* Testing 1
-* Testing 2
-* Testing 3
+# Belajar Kolaborasi
+Belajar GitHub di Dicoding sangat menyenangkan
+* Ahay
+
